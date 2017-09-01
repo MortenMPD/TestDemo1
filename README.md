@@ -1,1 +1,3 @@
 # TestDemo1
+
+Hello - this is juts a test of VS Code and Git...

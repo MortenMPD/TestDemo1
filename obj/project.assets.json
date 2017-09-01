@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "U:\\TestDemo1\\TestDemo1\\TestDemo1.csproj",
+      "projectUniqueName": "u:\\TestDemo1\\TestDemo1\\TestDemo1.csproj",
       "projectName": "TestDemo1",
-      "projectPath": "U:\\TestDemo1\\TestDemo1\\TestDemo1.csproj",
+      "projectPath": "u:\\TestDemo1\\TestDemo1\\TestDemo1.csproj",
       "packagesPath": "C:\\Users\\MPD\\.nuget\\packages\\",
-      "outputPath": "U:\\TestDemo1\\TestDemo1\\obj\\",
+      "outputPath": "u:\\TestDemo1\\TestDemo1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
